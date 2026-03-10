@@ -29,7 +29,7 @@
     },
     "bundle": {
         "active": true,
-        "targets": "all",
+        "targets": ["rpm", "appimage", "msi", "nsis"],
         "icon": [
             "icons/icon.png",
             "icons/icon.ico"
